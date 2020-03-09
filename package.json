@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/rickson-simoes/nextjs_app#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "next": "^9.3.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
