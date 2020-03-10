@@ -26,7 +26,7 @@ const User = ({users}) => (
 
 User.getInitialProps = async () => {
   const response = await axios.get(
-    'https://api.github.com/orgs/github/members'
+    'https://api.github.com/orgs/rocketseat/members'
     );
 
   return { users: response.data };
