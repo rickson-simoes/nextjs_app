@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Corpo, Teste } from '../styles/style';
 
 import Link from 'next/link';
 import Head from 'next/head';
